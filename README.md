@@ -37,9 +37,9 @@ The generated Bash script will be saved in the specified OUTPUT_PATH file.
    ./DrHouseDownloader.sh
    ```
 or
-   ```bash
-   bash DrHouseDownloader.sh
-   ```
+    ```bash
+    bash DrHouseDownloader.sh
+    ```
 7. The script will use aria2c to download the files in parallel with the specified options.
 
 ## Important Notes
