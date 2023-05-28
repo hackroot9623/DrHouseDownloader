@@ -48,3 +48,10 @@ or
 - Make sure you have sufficient disk space available for the downloaded files.
 - This script assumes that you have aria2c installed and available in your system's PATH. If it's not installed, please install it before running the script.
 - Please note that the script may not work if the website's structure or class names change. Adjust the script accordingly if needed.
+
+## Contact
+
+If you have any questions, feel free to reach out:
+
+- [Email](mailto:eliser.santiesteban.1996@gmail.com)
+- [Twitter](https://twitter.com/hackroot231)
