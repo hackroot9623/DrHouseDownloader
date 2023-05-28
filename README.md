@@ -23,23 +23,23 @@ This Python script scrapes links from multiple web pages and generates a Bash sc
 - Optionally, change the OUTPUT_PATH to specify a different file path for the generated Bash script.
 
 4. Run the script:
-  ```bash
-  python script.py
-  ```
+   ```bash
+   python script.py
+   ```
 The generated Bash script will be saved in the specified OUTPUT_PATH file.
 
 5. Change the permissions of the file by executing:
-  ```bash
-  chmod +x DrHouseDownloader.sh
-  ```
+   ```bash
+   chmod +x DrHouseDownloader.sh
+   ```
 6. Execute the generated Bash script to start downloading the files:
-  ```bash
-  ./DrHouseDownloader.sh
-  ```
+   ```bash
+   ./DrHouseDownloader.sh
+   ```
 or
-  ```bash
-  bash DrHouseDownloader.sh
-  ```
+   ```bash
+   bash DrHouseDownloader.sh
+   ```
 7. The script will use aria2c to download the files in parallel with the specified options.
 
 ## Important Notes
